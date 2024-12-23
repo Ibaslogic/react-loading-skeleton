@@ -1,1 +1,1 @@
-# React Loading Skeleton Starter
+# React Loading Skeleton
